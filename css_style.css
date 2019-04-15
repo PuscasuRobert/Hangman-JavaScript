@@ -1,0 +1,28 @@
+/*p
+{
+	color:red;
+}*/
+
+.letter
+{
+    display:inline;
+    width:40px;
+    height:40px;
+    margin:5px;
+    margin-bottom:5px;
+    font-size: 20px;
+}
+
+#outer {
+  width: 100%;
+  text-align: center;
+}
+
+#inner {
+  display: inline-block;
+}
+
+#currentWord
+{
+    font-size: 25px;
+}
